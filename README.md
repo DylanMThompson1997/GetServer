@@ -1,7 +1,7 @@
 # GetServer
 This is a server that queries the Northwind database using HTTP GET requests in a LINQ syntax, and publishes the results to a web page
 
-To view the code that comprises the server, view the lone C# file. To actually run the service, download the zip file and run the compile script, then open the service and test it in a browser, using the URLs, which should work
+To view the code that comprises the server, view the lone C# file. To actually run the service, download the zip file and run the compile script, then open the service and test it in a browser, using the URLs, which should work when copied into a browser (the ones with spaces will not work directly from here).
 
 --- Test URLs ---
 
